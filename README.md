@@ -12,33 +12,26 @@ File Name: NYSchoolQuality.xlsx
 Format: Excel
 Sheets: 1 (containing all data)
 
-Here are six potential use cases for the dataset:
+Six potential use cases for the dataset:
 
-School Performance Analysis
-Analyze the performance ratings of NYC public schools to identify strengths and areas needing improvement across different metrics like rigorous instruction, supportive environments, and school leadership.
-
-Educational Equity Studies
-Investigate disparities in educational outcomes by comparing performance ratings and resources with demographic factors such as race, economic need, and special education statistics.
-
-Trend Analysis Over Time
-Use this historical data as a baseline to compare with more recent datasets to identify trends or changes in school quality and demographics over the years.
-
-Resource Allocation Insights
-Support policy decisions by understanding how factors like enrollment size, economic needs, and teacher experience correlate with school performance.
-
-Community and Stakeholder Engagement
-Provide valuable insights to parents, educators, and community stakeholders about school quality to support informed decision-making and advocacy.
-
-Predictive Modeling and Research
-Develop models to predict the impact of various factors, such as attendance rates or teacher experience, on overall school performance and student outcomes.
+1. School Performance Analysis
+2. Educational Equity Studies
+3. Trend Analysis Over Time
+4. Resource Allocation Insights
+5. Community and Stakeholder Engagement
+6. Predictive Modeling and Research
 
 
 Here is the list of all column names along with whether their data is numerical or categorical:
 
 DBN: Categorical
+
 School Name: Categorical
+
 School Type: Categorical
+
 Enrollment: Numerical
+
 Rigorous Instruction Rating: Categorical
 Collaborative Teachers Rating: Categorical
 Supportive Environment Rating: Categorical

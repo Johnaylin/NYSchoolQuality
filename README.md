@@ -2,7 +2,7 @@
 
 # Overview
 
-https://github.com/Johnaylin/NYSchoolQuality/blob/main/shutterstock_262043447-dedc70.jpg?raw=true
+![NY Schools](https://github.com/Johnaylin/NYSchoolQuality/blob/main/shutterstock_262043447-dedc70.jpg?raw=true)
 
 This dataset contains detailed information about the quality and characteristics of public schools in New York City. It includes ratings across various performance indicators, demographic statistics, and quality review data for schools. The dataset is a valuable resource for analyzing school performance, equity, and educational outcomes.
 

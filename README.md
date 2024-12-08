@@ -33,38 +33,72 @@ School Type: Categorical
 Enrollment: Numerical
 
 Rigorous Instruction Rating: Categorical
+
 Collaborative Teachers Rating: Categorical
+
 Supportive Environment Rating: Categorical
+
 Effective School Leadership Rating: Categorical
+
 Strong Family-Community Ties Rating: Categorical
+
 Trust Rating: Categorical
+
 Student Achievement Rating: Categorical
+
 Rigorous Instruction - Percent Positive: Numerical
+
 Collaborative Teachers - Percent Positive: Numerical
+
 Supportive Environment - Percent Positive: Numerical
+
 Effective School Leadership - Percent Positive: Numerical
+
 Strong Family-Community Ties - Percent Positive: Numerical
+
 Trust - Percent Positive: Numerical
+
 Quality Review - How interesting and challenging is the curriculum?: Categorical
-Quality Review - How effective is the teaching and learning?: Categorical
+
+Quality Review - How effective are teaching and learning?: Categorical
+
 Quality Review - How well does the school assess what students are learning?: Categorical
+
 Quality Review - How well do teachers work with each other?: Categorical
+
 Quality Review - How clearly are high expectations communicated to students and staff?: Categorical
+
 Quality Review - Dates of Review: Categorical
+
 Average Grade 8 English Proficiency: Numerical
+
 Average Grade 8 Math Proficiency: Numerical
+
 Percent English Language Learners: Numerical
+
 Percent Students with Disabilities: Numerical
+
 Percent Self-Contained: Numerical
+
 Economic Need Index: Numerical
+
 Percent in Temp Housing - 4yr: Numerical
+
 Percent HRA Eligible: Numerical
+
 Percent Asian: Numerical
+
 Percent Black: Numerical
+
 Percent Hispanic: Numerical
+
 Percent White: Numerical
+
 Years of principal experience at this school: Numerical
+
 Percent of teachers with 3 or more years of experience: Numerical
+
 Student Attendance Rate: Numerical
+
 Percent of Students Chronically Absent: Numerical
 Teacher Attendance Rate: Numerical

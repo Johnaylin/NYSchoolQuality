@@ -2,6 +2,8 @@
 
 # Overview
 
+https://github.com/Johnaylin/NYSchoolQuality/blob/main/shutterstock_262043447-dedc70.jpg?raw=true
+
 This dataset contains detailed information about the quality and characteristics of public schools in New York City. It includes ratings across various performance indicators, demographic statistics, and quality review data for schools. The dataset is a valuable resource for analyzing school performance, equity, and educational outcomes.
 
 The data reflects school quality metrics collected during the most recent quality reviews conducted in 2015. As such, the dataset is approximately 9 years old as of 2024, offering a snapshot of the state of New York City public schools during that period. While it is highly useful for historical analysis, identifying trends, and making comparisons, users should note that it does not represent the current conditions of NYC schools.

@@ -103,8 +103,9 @@ Percent of teachers with 3 or more years of experience: Numerical
 
 Student Attendance Rate: Numerical
 
+Percent of Students Chronically Absent: Numerical
+
+Teacher Attendance Rate: Numerical
+
 ![Screenshot](https://github.com/Johnaylin/NYSchoolQuality/blob/main/picture.png?raw=true)
 
-
-Percent of Students Chronically Absent: Numerical
-Teacher Attendance Rate: Numerical

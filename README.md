@@ -8,6 +8,7 @@ This dataset contains detailed information about the quality and characteristics
 
 The data reflects school quality metrics collected during the most recent quality reviews conducted in 2015. As such, the dataset is approximately 9 years old as of 2024, offering a snapshot of the state of New York City public schools during that period. While it is highly useful for historical analysis, identifying trends, and making comparisons, users should note that it does not represent the current conditions of NYC schools.
 
+
 Total Rows: 491
 Total Columns: 40
 File Name: NYSchoolQuality.xlsx
